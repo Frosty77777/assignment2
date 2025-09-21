@@ -100,14 +100,8 @@ nav a {
     padding-bottom: 5px;
 }
 
-footer {
-    background-color: #000080;
-    color: white;
-    text-align: center;
-    padding: 15px;
-}
-
 a:hover {
     color: #0056b3;
 }
+
 
