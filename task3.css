@@ -52,32 +52,6 @@ nav a {
     padding: 20px;
     background-color: #f0f0f0;
 }
-
-.sidebar {
-    background-color: #e0e0e0;
-    width: 250px;
-    padding: 15px;
-    margin-right: 20px;
-    border: 1px solid #ccc;
-}
-
-.sidebar h2 {
-    margin-top: 0;
-    border-bottom: 2px solid #333;
-    padding-bottom: 5px;
-}
-
-.sidebar ul {
-    list-style-type: disc;
-    padding-left: 20px;
-    margin: 0;
-}
-
-.sidebar a {
-    color: #007bff;
-    text-decoration: none;
-}
-
 .main-content {
     background-color: #e0e0e0;
     flex: 1;
