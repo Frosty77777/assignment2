@@ -43,22 +43,6 @@ nav a {
     border: 1px solid white;
     border-radius: 5px;
 }
-.content-container {
-    display: flex;
-    flex: 1;
-    padding: 20px;
-    background-color: #f0f0f0;
-}
-
-
-body {
-    font-family: 'Montserrat', sans-serif;
-    line-height: 1.6;
-    margin: 0;
-    padding: 0;
-    background-color: #f0f4f8;
-    color: #333;
-}
 
 header {
     background-color: #002d5c;
@@ -183,4 +167,5 @@ footer {
     color: #f0f4f8;
     margin-top: 40px;
     font-size: 0.9rem;
+
 }
