@@ -160,12 +160,4 @@ a:hover {
     transform: translateY(-3px);
 }
 
-footer {
-    text-align: center;
-    padding: 20px;
-    background-color: #002d5c;
-    color: #f0f4f8;
-    margin-top: 40px;
-    font-size: 0.9rem;
 
-}
